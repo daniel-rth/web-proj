@@ -28,3 +28,8 @@ Ein Repository auf das mehrere Personen in einem Projekt zugreifen können. Hier
 
 
 3.Erklären Sie die wesentlichen Unterschiede zwischen zentraler und verteilter Versionskontrolle.
+Zentral = Zentrales Repository (Online) Zugriff nur per Netzwerkanbindung
+Verteilt = Lokal vorliegende Repository-Copy Netzwerkanbndinug nur bei Synchronisation notwendig (Git ist verteilt)
+
+Zentral Nachteile: Wenn der Haupt-Server down geht, kann man von keiner Maschine mehr zugreifen, Serverwartung beschränkt Kollaboration
+Verteilt Nachteile: Man kann keine besonderen Berechtigungen vergeben
