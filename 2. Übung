@@ -1,0 +1,30 @@
+1.Welche Aussage trifft zu:
+Ein Konflikt in Git entsteht, ... :
+1.3 wenn in der gleichen Zeile von unterschiedlichen Leuten Unterschiedliche Änderungen durchgeführt wurden, gibt es einen Konflikt
+
+
+2.Erklären Sie kurz folgende Begriffe:
+a) Push und Pull
+Push = Lokale Änderungen an einer Datei werden in das Projekt Repository gepusht und für alle freigegeben
+Pull = Dateien werden aus einem Repository heruntergeladen
+
+b) Commit
+Änderungen die man ins Repository übernehmen will
+Commit ist ein Snapshot der aktuell bereitgestellten Änderungen des Projekts. Soll als Zeitleiste im Projekt dienen
+
+c) Branch
+Ein Abzweigung des Master Branches (auf dem alle Commits laufen) in dem man dann auf eigener Geschwindigkeit weiter arbeiten kann, ohne den Hauptstream zu verändern.
+
+d) Merge und Rebase
+Merge = Wenn man Änderungen in einem Branch wieder auf den Master Commit zusammenführen will
+Rebase = Wenn man Änderungen in unterschiedlichen Branches zusammenführen will
+
+e) Working Directory & Stage/Index
+Working Directory = Verzeichnis mit dem kompletten lokalen Repository (alle Dateien, usw.)
+Staging Area = Man sieht alle veränderten Dateien und was alles geändert wurde
+
+f) Remote Repository
+Ein Repository auf das mehrere Personen in einem Projekt zugreifen können. Hier spielen sich auch alle Commits usw. ab
+
+
+3.Erklären Sie die wesentlichen Unterschiede zwischen zentraler und verteilter Versionskontrolle.
